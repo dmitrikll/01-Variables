@@ -1,4 +1,4 @@
-# HW1-Variables
+# HW01-Variables
 Java Basic Varibles
 
 ## Домашнє завдання
